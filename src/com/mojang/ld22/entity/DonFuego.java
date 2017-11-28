@@ -1,5 +1,5 @@
 
 
-class DonFuego extends Mob {
+public class DonFuego extends Mob {
 
 }
