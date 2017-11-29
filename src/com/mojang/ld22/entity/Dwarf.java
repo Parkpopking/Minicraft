@@ -7,7 +7,16 @@ import com.mojang.ld22.item.resource.Resource;
 
 public class Dwarf extends Mob {
     float xa;
-    float ya
-			
-  
+    float ya;
+    int health = 8;
+        
+    public Dwarf(float a, float b){
+            xa = a;
+            ya = b;
+    }
+    public tick (){
+            super.tick();
+            
+            
+    }
 }
