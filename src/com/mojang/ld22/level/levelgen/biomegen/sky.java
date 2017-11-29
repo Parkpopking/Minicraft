@@ -1,6 +1,8 @@
 //This just covers formation for the sky level
 
 import com.mojang.ld22.level.*;
+import com.mojang.ld22.level.tile.*;
+import com.mojang.ld22.level.levelgen.*;
 
 
 public class sky extends biome {
